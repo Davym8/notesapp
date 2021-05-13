@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">NotesApp</string>
+    <string name="create_new_note">Create New Note</string>
+    <string name="show_all_notes">Show All Notes</string>
+    <string name="just_a_tree">just a tree</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="edit_notes_here">edit notes here</string>
+    <string name="save">Save</string>
+    <string name="make_some_notes">make some notes</string>
+    <string name="notes">Notes</string>
+    <string name="note_maker">Note Maker</string>
+</resources>
